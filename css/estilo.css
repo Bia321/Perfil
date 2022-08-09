@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header img{
+    border-radius: 730px;
+    height: 110px;
+}
+header{
+    
+    background-color: rgb(250, 235, 215);
+    text-align: center;
+}
+header img{
+    border: solid 5px rgb(250, 245, 245);
+    border-radius: 180px;
+    box-shadow: 0 0 15px rgb(233, 117, 101);
+}
+#Numeros-Seguindo{
+text-align: center; 
+color:rgb(214, 84, 67);
+float: right;
+width: 50%;
+min-width: 250px;
+vertical-align: sub;
+}
+
+#Numeros-Seguidores{
+    
+    text-align: center;
+    color:rgb(214, 84, 67);
+    float: right;
+    width: 50%;
+    min-width: 250px;
+    vertical-align: sub;
+    }
+
+#sobre {
+    text-align: center;
+    padding: 80px;
+    
+}
+#sobre h1 {
+    margin-bottom: 10px; 
+    text-decoration: underline ;
+    text-transform: uppercase;
+    text-decoration-color: rgb(219, 124, 108);
+}
+
+#Seguir{
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+#Seguir a{
+    letter-spacing: 10px;
+    border-radius: 10px;
+    background: rgb(233, 102, 85);
+    color: black;
+    text-decoration: none;
+    font-weight bottom;
+    padding: 2rem;
+
+}
+@media screen and (min-width: 700px) {
+body{
+    margin:0 auto;
+    width: 600px;
+}
+
+ #sobre {
+        font-size: 0.90rem;
+        text-align: center;}
+
+.Seguir{
+    margin:4rem auto:
+    width:35vw;
+}
+
+header{
+        align: center;
+        
+    }
+	
+				
+
+
+
+    }
+
+
+    
+    
+    
+
+    
+
+
+
+
